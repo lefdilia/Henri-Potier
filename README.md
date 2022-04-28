@@ -11,4 +11,7 @@
 - [x] MVVM Pattern
 - [x] Local Notification
 
-https://user-images.githubusercontent.com/17814540/165696362-505b40b1-0bb4-4e94-b827-bb06e8cb97c4.mp4
+
+
+https://user-images.githubusercontent.com/17814540/165704087-c1856a58-96b5-486f-ace6-efbc25f991c8.mp4
+
